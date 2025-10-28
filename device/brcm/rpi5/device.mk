@@ -97,7 +97,6 @@ PRODUCT_PACKAGES += \
 
 # Emergency info
 PRODUCT_PACKAGES += \
-    EmergencyInfo
 
 # Ethernet
 PRODUCT_COPY_FILES += \
