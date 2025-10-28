@@ -40,7 +40,6 @@ PRODUCT_PACKAGES_DEBUG += \
     ExperimentalCarService \
     GarageModeTestApp \
     NetworkPreferenceApp \
-    RailwayReferenceApp \
     SampleCustomInputService \
     AaosCustomizationTool \
 

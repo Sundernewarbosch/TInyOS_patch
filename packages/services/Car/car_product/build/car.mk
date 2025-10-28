@@ -47,7 +47,6 @@ PRODUCT_PACKAGES += \
     SampleCustomInputService \
     curl \
     CarTelemetryApp \
-    RailwayReferenceApp \
     CarHotwordDetectionServiceOne \
     KitchenSinkServerlessRemoteTaskClientRRO \
     AaosCustomizationTool \
