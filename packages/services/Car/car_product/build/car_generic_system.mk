@@ -38,7 +38,6 @@ PRODUCT_PACKAGES_DEBUG += \
     CarHotwordDetectionServiceOne \
     CarTelemetryApp \
     DefaultStorageMonitoringCompanionApp \
-    EmbeddedKitchenSinkApp \
     ExperimentalCarService \
     GarageModeTestApp \
     NetworkPreferenceApp \
