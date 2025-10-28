@@ -1,0 +1,7 @@
+import /vendor/etc/init/hw/init.rpi5.usb.rc
+
+on init
+    symlink /sdcard /storage/sdcard0
+
+on fs
+    mount_all /vendor/etc/fstab.rpi5
