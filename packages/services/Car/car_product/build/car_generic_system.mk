@@ -34,7 +34,6 @@ PRODUCT_PACKAGES_DEBUG += \
     tinypcminfo \
     tinyplay \
     update_engine_client \
-    AdasLocationTestApp \
     CarHotwordDetectionServiceOne \
     CarTelemetryApp \
     DefaultStorageMonitoringCompanionApp \

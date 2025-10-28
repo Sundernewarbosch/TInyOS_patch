@@ -45,7 +45,6 @@ PRODUCT_PACKAGES += \
     ExperimentalCarService \
     BugReportApp \
     SampleCustomInputService \
-    AdasLocationTestApp \
     curl \
     CarTelemetryApp \
     RailwayReferenceApp \
