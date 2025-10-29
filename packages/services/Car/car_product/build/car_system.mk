@@ -109,7 +109,6 @@ PRODUCT_PACKAGES += \
     Bluetooth \
     CarActivityResolver \
     CarManagedProvisioning \
-    StatementService \
     SystemUpdater \
     pppd \
     screenrecord

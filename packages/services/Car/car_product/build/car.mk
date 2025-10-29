@@ -29,7 +29,6 @@ PRODUCT_PACKAGES += \
     CarSettingsIntelligence \
     CarManagedProvisioning \
     CarProvision \
-    StatementService \
     SystemUpdater
 
 PRODUCT_PACKAGES += \
