@@ -218,7 +218,6 @@ PRODUCT_PACKAGES += \
     OverviewApp \
     CarLauncher \
     LocalMediaPlayer \
-    CarMediaApp \
     CarMessengerApp \
     CarHTMLViewer \
     CarMapsPlaceholder \

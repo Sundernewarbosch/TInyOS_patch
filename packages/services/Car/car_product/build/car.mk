@@ -145,7 +145,6 @@ PRODUCT_PACKAGES += \
     CarLauncher \
     CarSystemUI \
     LocalMediaPlayer \
-    CarMediaApp \
     CarHTMLViewer \
     CarMapsPlaceholder \
     CarLatinIME \
