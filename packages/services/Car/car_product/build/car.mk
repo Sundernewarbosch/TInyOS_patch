@@ -47,7 +47,6 @@ PRODUCT_PACKAGES += \
     SampleCustomInputService \
     curl \
     CarTelemetryApp \
-    CarHotwordDetectionServiceOne \
     KitchenSinkServerlessRemoteTaskClientRRO \
     AaosCustomizationTool \
 
