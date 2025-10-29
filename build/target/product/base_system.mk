@@ -77,7 +77,6 @@ PRODUCT_PACKAGES += \
     com.android.uwb \
     com.android.virt \
     com.android.wifi \
-    ContactsProvider \
     content \
     CtsShimPrebuilt \
     CtsShimPrivPrebuilt \
