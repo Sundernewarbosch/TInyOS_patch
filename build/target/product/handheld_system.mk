@@ -52,7 +52,6 @@ PRODUCT_PACKAGES += \
     ExternalStorageProvider \
     FusedLocation \
     InputDevices \
-    KeyChain \
     librs_jni \
     ManagedProvisioning \
     MmsService \
@@ -88,7 +87,6 @@ $(call soong_config_set,vdm,virtual_camera_service_enabled,$(if $(RELEASE_PACKAG
 PRODUCT_SYSTEM_SERVER_APPS += \
     FusedLocation \
     InputDevices \
-    KeyChain \
     Telecom \
 
 PRODUCT_PACKAGES += framework-audio_effects.xml

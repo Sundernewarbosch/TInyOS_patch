@@ -162,7 +162,6 @@ PRODUCT_PACKAGES += \
     DownloadProviderUi \
     FusedLocation \
     InputDevices \
-    KeyChain \
     Keyguard \
     Launcher2 \
     PacProcessor \

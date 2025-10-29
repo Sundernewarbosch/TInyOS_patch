@@ -39,7 +39,6 @@ PRODUCT_PACKAGES += \
     DownloadProviderUi \
     FusedLocation \
     InputDevices \
-    KeyChain \
     Keyguard \
     LatinIME \
     Launcher2 \
