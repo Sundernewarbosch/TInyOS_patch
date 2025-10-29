@@ -34,7 +34,6 @@ PRODUCT_PACKAGES_DEBUG += \
     CarTelemetryApp \
     DefaultStorageMonitoringCompanionApp \
     ExperimentalCarService \
-    GarageModeTestApp \
     SampleCustomInputService \
     AaosCustomizationTool \
 
