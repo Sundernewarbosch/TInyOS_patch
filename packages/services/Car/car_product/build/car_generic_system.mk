@@ -33,7 +33,6 @@ PRODUCT_PACKAGES_DEBUG += \
     update_engine_client \
     DefaultStorageMonitoringCompanionApp \
     ExperimentalCarService \
-    SampleCustomInputService \
 
 # Default boot animation for AAOS
 PRODUCT_COPY_FILES += \

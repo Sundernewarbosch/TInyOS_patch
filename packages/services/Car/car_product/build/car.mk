@@ -42,7 +42,6 @@ PRODUCT_PACKAGES += \
     DefaultStorageMonitoringCompanionApp \
     ExperimentalCarService \
     BugReportApp \
-    SampleCustomInputService \
     curl \
     KitchenSinkServerlessRemoteTaskClientRRO \
 
