@@ -43,7 +43,6 @@ PRODUCT_PACKAGES += \
     LatinIME \
     Launcher2 \
     PacProcessor \
-    PrintSpooler \
     ProxyHandler \
     Settings \
     SharedStorageBackup \

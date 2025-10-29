@@ -164,7 +164,6 @@ PRODUCT_PACKAGES += \
     Keyguard \
     Launcher2 \
     PacProcessor \
-    PrintSpooler \
     ProxyHandler \
     Settings \
     SharedStorageBackup \
