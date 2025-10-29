@@ -214,7 +214,6 @@ PRODUCT_PACKAGES += \
     OverviewApp \
     CarLauncher \
     CarMessengerApp \
-    CarHTMLViewer \
     CarMapsPlaceholder \
     CarLatinIME \
     CarSettings \

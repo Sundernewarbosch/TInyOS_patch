@@ -140,7 +140,6 @@ PRODUCT_PACKAGES += \
     OverviewApp \
     CarLauncher \
     CarSystemUI \
-    CarHTMLViewer \
     CarMapsPlaceholder \
     CarLatinIME \
     CarSettings \
