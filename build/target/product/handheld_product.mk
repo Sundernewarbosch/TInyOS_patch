@@ -25,7 +25,6 @@ PRODUCT_PACKAGES += \
     Browser2 \
     Calendar \
     Camera2 \
-    Gallery2 \
     LatinIME \
     Music \
     preinstalled-packages-platform-handheld-product.xml \
