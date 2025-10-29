@@ -35,7 +35,6 @@ PRODUCT_PACKAGES_DEBUG += \
     DefaultStorageMonitoringCompanionApp \
     ExperimentalCarService \
     GarageModeTestApp \
-    NetworkPreferenceApp \
     SampleCustomInputService \
     AaosCustomizationTool \
 

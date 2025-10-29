@@ -56,7 +56,7 @@ endif
 endif # PRODUCT_IS_AUTOMOTIVE_SDK
 
 ifneq (,$(filter userdebug eng, $(TARGET_BUILD_VARIANT)))
-PRODUCT_PACKAGES += NetworkPreferenceApp
+PRODUCT_PACKAGES += 
 endif
 
 # ClusterOsDouble is the testing app to test Cluster2 framework and it can handle Cluster VHAL
