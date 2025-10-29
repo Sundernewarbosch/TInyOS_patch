@@ -45,7 +45,6 @@ PRODUCT_PACKAGES += \
     SampleCustomInputService \
     curl \
     KitchenSinkServerlessRemoteTaskClientRRO \
-    AaosCustomizationTool \
 
 # SEPolicy for test apps / services
 PRODUCT_PRIVATE_SEPOLICY_DIRS += packages/services/Car/car_product/sepolicy/test
