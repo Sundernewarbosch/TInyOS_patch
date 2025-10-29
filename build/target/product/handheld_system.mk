@@ -53,7 +53,6 @@ PRODUCT_PACKAGES += \
     librs_jni \
     ManagedProvisioning \
     MmsService \
-    MtpService \
     MusicFX \
     PacProcessor \
     preinstalled-packages-platform-handheld-system.xml \
