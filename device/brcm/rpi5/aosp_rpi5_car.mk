@@ -52,7 +52,7 @@ PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.hardware.broadcastradio.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.broadcastradio.xml
 
 # Camera
-ENABLE_CAMERA_SERVICE := true
+ENABLE_CAMERA_SERVICE := false
 
 # CAN
 PRODUCT_PACKAGES += \
