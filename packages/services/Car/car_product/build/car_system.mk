@@ -209,7 +209,6 @@ PRODUCT_PACKAGES += carpowerpolicyd
 PRODUCT_IS_AUTOMOTIVE := true
 
 PRODUCT_PACKAGES += \
-    CarDocumentsUI \
     CarFrameworkPackageStubs \
     CarService \
     CarShell \
