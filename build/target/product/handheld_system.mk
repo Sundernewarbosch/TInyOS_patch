@@ -64,7 +64,6 @@ PRODUCT_PACKAGES += \
     SecureElement \
     SharedStorageBackup \
     SimAppDialog \
-    Telecom \
     UserDictionaryProvider \
     VpnDialogs \
     vr \
@@ -85,7 +84,6 @@ $(call soong_config_set,vdm,virtual_camera_service_enabled,$(if $(RELEASE_PACKAG
 PRODUCT_SYSTEM_SERVER_APPS += \
     FusedLocation \
     InputDevices \
-    Telecom \
 
 PRODUCT_PACKAGES += framework-audio_effects.xml
 
