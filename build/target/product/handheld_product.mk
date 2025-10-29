@@ -25,7 +25,6 @@ PRODUCT_PACKAGES += \
     Browser2 \
     Calendar \
     Camera2 \
-    DeskClock \
     Gallery2 \
     LatinIME \
     Music \
