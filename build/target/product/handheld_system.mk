@@ -68,7 +68,6 @@ PRODUCT_PACKAGES += \
     SharedStorageBackup \
     SimAppDialog \
     Telecom \
-    TeleService \
     Traceur \
     UserDictionaryProvider \
     VpnDialogs \
