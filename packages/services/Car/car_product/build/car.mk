@@ -140,7 +140,6 @@ PRODUCT_PACKAGES += \
     OverviewApp \
     CarLauncher \
     CarSystemUI \
-    CarMapsPlaceholder \
     CarLatinIME \
     CarSettings \
     CarUsbHandler \

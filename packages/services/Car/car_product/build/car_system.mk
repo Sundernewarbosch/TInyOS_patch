@@ -214,7 +214,6 @@ PRODUCT_PACKAGES += \
     OverviewApp \
     CarLauncher \
     CarMessengerApp \
-    CarMapsPlaceholder \
     CarLatinIME \
     CarSettings \
     CarUsbHandler \
