@@ -212,7 +212,6 @@ PRODUCT_PACKAGES += \
     CarFrameworkPackageStubs \
     CarService \
     CarShell \
-    CarDialerApp \
     CarRadioApp \
     OverviewApp \
     CarLauncher \
