@@ -44,7 +44,6 @@ PRODUCT_PACKAGES += \
     BugReportApp \
     SampleCustomInputService \
     curl \
-    CarTelemetryApp \
     KitchenSinkServerlessRemoteTaskClientRRO \
     AaosCustomizationTool \
 
