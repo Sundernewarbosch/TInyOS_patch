@@ -28,4 +28,3 @@ PRODUCT_PACKAGES += \
     Settings \
     StorageManager \
     SystemUI \
-    WallpaperCropper \
