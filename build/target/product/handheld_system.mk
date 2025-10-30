@@ -66,9 +66,9 @@ PRODUCT_PACKAGES += \
 
 # Choose the correct products based on HSUM status
 ifeq ($(PRODUCT_USE_HSUM),true)
-  PRODUCT_PACKAGES += TelephonyProviderHsum
+  PRODUCT_PACKAGES += 
 else
-  PRODUCT_PACKAGES += TelephonyProvider
+  PRODUCT_PACKAGES += 
 endif
 
 PRODUCT_PACKAGES += $(RELEASE_PACKAGE_VIRTUAL_CAMERA)
