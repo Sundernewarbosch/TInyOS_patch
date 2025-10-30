@@ -24,7 +24,6 @@ PRODUCT_PACKAGES := \
     WAPPushManager
 
 PRODUCT_PACKAGES += \
-    PhotoTable \
     preinstalled-packages-platform-full-base.xml
 
 # Net:
