@@ -45,7 +45,6 @@ PRODUCT_PACKAGES += \
     ProxyHandler \
     Settings \
     SharedStorageBackup \
-    VpnDialogs \
     ExternalStorageProvider \
     atrace \
     libandroidfw \

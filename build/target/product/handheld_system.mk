@@ -57,7 +57,6 @@ PRODUCT_PACKAGES += \
     SecureElement \
     SharedStorageBackup \
     UserDictionaryProvider \
-    VpnDialogs \
     vr \
 
 # Choose the correct products based on HSUM status
