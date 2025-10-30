@@ -36,7 +36,6 @@ PRODUCT_PACKAGES += \
     android.software.window_magnification.prebuilt.xml \
     BasicDreams \
     BluetoothMidiService \
-    BookmarkProvider \
     cameraserver \
     CaptivePortalLogin \
     CertInstaller \
