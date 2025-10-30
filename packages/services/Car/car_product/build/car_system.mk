@@ -33,9 +33,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/updatable_apex.mk)
 # Applications
 PRODUCT_PACKAGES += \
     preinstalled-packages-platform-generic-system.xml \
-    Stk \
-    Tag \
-
+    
 # OTA support
 PRODUCT_PACKAGES += \
     recovery-refresh \
