@@ -419,7 +419,7 @@ endif # EMMA_INSTRUMENT
 
 ifeq (,$(DISABLE_WALLPAPER_BACKUP))
   PRODUCT_PACKAGES += \
-    WallpaperBackup
+    
 endif
 
 PRODUCT_PACKAGES += \
