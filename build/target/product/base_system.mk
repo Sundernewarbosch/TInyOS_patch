@@ -85,7 +85,6 @@ PRODUCT_PACKAGES += \
     dmctl \
     dnsmasq \
     dmesgd \
-    DownloadProvider \
     dpm \
     dump.erofs \
     dumpstate \
