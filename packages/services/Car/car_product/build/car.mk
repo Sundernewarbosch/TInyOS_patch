@@ -25,7 +25,6 @@ endif
 PRODUCT_PACKAGES += \
     Bluetooth \
     CarActivityResolver \
-    CarDeveloperOptions \
     CarSettingsIntelligence \
     CarManagedProvisioning \
     CarProvision \
