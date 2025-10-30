@@ -131,7 +131,6 @@ PRODUCT_SYSTEM_PROPERTIES += ro.android.car.version.platform_minor=0
 PRODUCT_PACKAGES += \
     CarFrameworkPackageStubs \
     CarService \
-    CarShell \
     CarRadioApp \
     OverviewApp \
     CarLauncher \

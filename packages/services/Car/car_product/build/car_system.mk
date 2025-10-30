@@ -206,7 +206,6 @@ PRODUCT_IS_AUTOMOTIVE := true
 PRODUCT_PACKAGES += \
     CarFrameworkPackageStubs \
     CarService \
-    CarShell \
     CarRadioApp \
     OverviewApp \
     CarLauncher \
