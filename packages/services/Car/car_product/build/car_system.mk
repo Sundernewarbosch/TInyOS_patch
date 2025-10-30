@@ -165,7 +165,6 @@ PRODUCT_PACKAGES += \
     PacProcessor \
     ProxyHandler \
     Settings \
-    SharedStorageBackup \
     ExternalStorageProvider \
     atrace \
     libandroidfw \

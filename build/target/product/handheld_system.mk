@@ -53,7 +53,6 @@ PRODUCT_PACKAGES += \
     ProxyHandler \
     screenrecord \
     SecureElement \
-    SharedStorageBackup \
     vr \
 
 # Choose the correct products based on HSUM status
