@@ -52,7 +52,6 @@ PRODUCT_PACKAGES += \
     MusicFX \
     PacProcessor \
     preinstalled-packages-platform-handheld-system.xml \
-    PrintRecommendationService \
     ProxyHandler \
     screenrecord \
     SecureElement \
