@@ -38,7 +38,6 @@ PRODUCT_PACKAGES += \
     BlockedNumberProvider \
     BluetoothMidiService \
     BookmarkProvider \
-    CalendarProvider \
     cameraserver \
     CameraExtensionsProxy \
     CaptivePortalLogin \
