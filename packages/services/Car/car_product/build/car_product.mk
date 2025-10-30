@@ -43,7 +43,6 @@ PRODUCT_PACKAGES += \
     WallpaperPicker \
 
 PRODUCT_PACKAGES_DEBUG += \
-    KitchenSinkServerlessRemoteTaskClientRRO \
 
 PRODUCT_PUBLIC_SEPOLICY_DIRS += packages/services/Car/car_product/sepolicy/public
 PRODUCT_PRIVATE_SEPOLICY_DIRS += packages/services/Car/car_product/sepolicy/private
