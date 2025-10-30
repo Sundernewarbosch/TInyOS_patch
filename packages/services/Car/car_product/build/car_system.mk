@@ -158,7 +158,6 @@ PRODUCT_PACKAGES += \
     BasicDreams \
     CaptivePortalLogin \
     CertInstaller \
-    DownloadProviderUi \
     FusedLocation \
     InputDevices \
     Keyguard \
@@ -205,7 +204,6 @@ PRODUCT_IS_AUTOMOTIVE := true
 
 PRODUCT_PACKAGES += \
     CarFrameworkPackageStubs \
-    CarService \
     CarRadioApp \
     OverviewApp \
     CarLauncher \

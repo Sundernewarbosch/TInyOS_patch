@@ -44,7 +44,6 @@ PRODUCT_PACKAGES += \
     CertInstaller \
     CredentialManager \
     DocumentsUI \
-    DownloadProviderUi \
     ExternalStorageProvider \
     FusedLocation \
     InputDevices \

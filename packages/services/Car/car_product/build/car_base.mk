@@ -36,7 +36,6 @@ PRODUCT_PACKAGES += \
     BasicDreams \
     CaptivePortalLogin \
     CertInstaller \
-    DownloadProviderUi \
     FusedLocation \
     InputDevices \
     Keyguard \
