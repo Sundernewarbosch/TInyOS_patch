@@ -40,7 +40,7 @@ PRODUCT_PRODUCT_PROPERTIES += \
 # More AOSP packages
 PRODUCT_PACKAGES += \
     preinstalled-packages-platform-aosp-product.xml \
-    WallpaperPicker \
+
 
 PRODUCT_PACKAGES_DEBUG += \
 
