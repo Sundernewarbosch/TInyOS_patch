@@ -40,7 +40,6 @@ ifneq ($(PRODUCT_IS_AUTOMOTIVE_SDK),true)
 ifneq (,$(filter userdebug eng, $(TARGET_BUILD_VARIANT)))
 PRODUCT_PACKAGES += \
     DefaultStorageMonitoringCompanionApp \
-    ExperimentalCarService \
     BugReportApp \
     curl \
     KitchenSinkServerlessRemoteTaskClientRRO \

@@ -32,7 +32,6 @@ PRODUCT_PACKAGES_DEBUG += \
     tinyplay \
     update_engine_client \
     DefaultStorageMonitoringCompanionApp \
-    ExperimentalCarService \
 
 # Default boot animation for AAOS
 PRODUCT_COPY_FILES += \
