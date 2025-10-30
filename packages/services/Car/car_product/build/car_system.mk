@@ -207,7 +207,6 @@ PRODUCT_PACKAGES += \
     OverviewApp \
     CarLauncher \
     CarMessengerApp \
-    CarLatinIME \
     CarSettings \
     CarUsbHandler \
     android.car.builtin \

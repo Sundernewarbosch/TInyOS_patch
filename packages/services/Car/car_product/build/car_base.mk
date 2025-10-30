@@ -39,7 +39,6 @@ PRODUCT_PACKAGES += \
     FusedLocation \
     InputDevices \
     Keyguard \
-    LatinIME \
     Launcher2 \
     PacProcessor \
     ProxyHandler \

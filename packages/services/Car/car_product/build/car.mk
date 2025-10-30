@@ -134,7 +134,6 @@ PRODUCT_PACKAGES += \
     OverviewApp \
     CarLauncher \
     CarSystemUI \
-    CarLatinIME \
     CarSettings \
     CarUsbHandler \
     android.car.builtin \
