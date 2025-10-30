@@ -64,7 +64,7 @@ endif
 # ENABLE_EVS_SERVICE must be set as true from the product's makefile if it wants to support
 # the Extended View System service.
 ifeq ($(ENABLE_EVS_SERVICE), true)
-PRODUCT_PACKAGES += evsmanagerd
+PRODUCT_PACKAGES += 
 
 # CUSTOMIZE_EVS_SERVICE_PARAMETER must be set as true from the product's makefile if it wants
 # to use IEvsEnumearor instances other than hw/1.
@@ -76,7 +76,7 @@ endif
 ifeq ($(ENABLE_EVS_SAMPLE), true)
 # ENABLE_EVS_SAMPLE should set be true or their vendor specific equivalents should be included in
 # the device.mk with the corresponding selinux policies
-PRODUCT_PACKAGES += evs_app \
+PRODUCT_PACKAGES +=  \
                     android.hardware.automotive.evs-default \
                     cardisplayproxyd
 include packages/services/Car/cpp/evs/apps/sepolicy/evsapp.mk

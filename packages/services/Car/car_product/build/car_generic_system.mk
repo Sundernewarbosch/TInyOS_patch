@@ -55,7 +55,7 @@ endif
 # ENABLE_EVS_SERVICE must be set as true from the product's makefile if it wants to support
 # the Extended View System service.
 ifeq ($(ENABLE_EVS_SERVICE), true)
-PRODUCT_PACKAGES += evsmanagerd
+PRODUCT_PACKAGES += 
 
 # CUSTOMIZE_EVS_SERVICE_PARAMETER must be set as true from the product's makefile if it wants
 # to use IEvsEnumearor instances other than hw/1.
@@ -85,12 +85,12 @@ endif
 # ENABLE_EVS_SAMPLE should be set true or their vendor specific equivalents should be included in
 # the device.mk with the corresponding selinux policies
 ifeq ($(ENABLE_EVS_SAMPLE), true)
-PRODUCT_PACKAGES += evs_app
+PRODUCT_PACKAGES += 
 # A reference EVS HAL implementation will be added in car_vendor.mk and require AIDL version of
 # the automotive display service implementation.
 USE_AIDL_DISPLAY_SERVICE := true
 else ifeq ($(ENABLE_SAMPLE_EVS_APP), true)
-PRODUCT_PACKAGES += evs_app
+PRODUCT_PACKAGES += 
 endif
 
 ifeq ($(USE_HIDL_DISPLAY_SERVICE), true)
