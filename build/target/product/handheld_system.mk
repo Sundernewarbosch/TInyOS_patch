@@ -39,7 +39,6 @@ PRODUCT_PACKAGES += \
     BluetoothMidiService \
     BookmarkProvider \
     cameraserver \
-    CameraExtensionsProxy \
     CaptivePortalLogin \
     CertInstaller \
     CredentialManager \
