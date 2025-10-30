@@ -31,7 +31,6 @@ PRODUCT_PACKAGES_DEBUG += \
     tinypcminfo \
     tinyplay \
     update_engine_client \
-    DefaultStorageMonitoringCompanionApp \
 
 # Default boot animation for AAOS
 PRODUCT_COPY_FILES += \

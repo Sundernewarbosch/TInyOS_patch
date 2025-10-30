@@ -39,7 +39,6 @@ ifneq ($(PRODUCT_IS_AUTOMOTIVE_SDK),true)
 # This is for testing
 ifneq (,$(filter userdebug eng, $(TARGET_BUILD_VARIANT)))
 PRODUCT_PACKAGES += \
-    DefaultStorageMonitoringCompanionApp \
     BugReportApp \
     curl \
     KitchenSinkServerlessRemoteTaskClientRRO \
