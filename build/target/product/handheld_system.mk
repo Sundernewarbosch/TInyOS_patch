@@ -54,7 +54,6 @@ PRODUCT_PACKAGES += \
     screenrecord \
     SecureElement \
     SharedStorageBackup \
-    UserDictionaryProvider \
     vr \
 
 # Choose the correct products based on HSUM status
