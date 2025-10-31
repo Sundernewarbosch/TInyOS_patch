@@ -39,7 +39,6 @@ PRODUCT_PACKAGES += \
     CaptivePortalLogin \
     CertInstaller \
     CredentialManager \
-    DocumentsUI \
     ExternalStorageProvider \
     FusedLocation \
     InputDevices \
