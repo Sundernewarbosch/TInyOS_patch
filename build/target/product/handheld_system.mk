@@ -36,7 +36,6 @@ PRODUCT_PACKAGES += \
     android.software.window_magnification.prebuilt.xml \
     BasicDreams \
     BluetoothMidiService \
-    cameraserver \
     CaptivePortalLogin \
     CertInstaller \
     CredentialManager \
@@ -51,7 +50,6 @@ PRODUCT_PACKAGES += \
     preinstalled-packages-platform-handheld-system.xml \
     ProxyHandler \
     screenrecord \
-    SecureElement \
     vr \
 
 # Choose the correct products based on HSUM status
