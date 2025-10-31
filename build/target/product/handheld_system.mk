@@ -48,7 +48,6 @@ PRODUCT_PACKAGES += \
     preinstalled-packages-platform-handheld-system.xml \
     ProxyHandler \
     screenrecord \
-    vr \
 
 # Choose the correct products based on HSUM status
 ifeq ($(PRODUCT_USE_HSUM),true)
