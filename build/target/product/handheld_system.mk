@@ -43,7 +43,6 @@ PRODUCT_PACKAGES += \
     FusedLocation \
     InputDevices \
     librs_jni \
-    ManagedProvisioning \
     MusicFX \
     PacProcessor \
     preinstalled-packages-platform-handheld-system.xml \
